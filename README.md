@@ -1,4 +1,7 @@
 # Tutorial and Presentations
+
+These links are to various guides that I have made. If you are new, they are best read from the top down. Some of these presentations do not have much text in them, so if you are interested in knowing more then let me know.
+
 Setting Up Visual Studio Environment 
 - https://docs.google.com/document/d/1yiox6tOUkZGJEUd3a1b1GufYEpJEFMbfEvCdMAbJzA0/edit?usp=sharing
 
