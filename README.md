@@ -1,4 +1,4 @@
-# tutorials-and-presentations
+# Tutorial and Presentations
 Setting Up Visual Studio Environment 
 https://docs.google.com/document/d/1yiox6tOUkZGJEUd3a1b1GufYEpJEFMbfEvCdMAbJzA0/edit?usp=sharing
 
